@@ -1,0 +1,15 @@
+{
+  "lang": "en-US",
+  "name": "Tic Tac Toe - A mind game",
+  "short_name": "tictactoe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "description": "Its a two player mind game with simple x and o :)",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    }
+  ]
+}
