@@ -14,7 +14,7 @@ class Board extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      squares: Array(25).fill(null),
+      squares: Array(26).fill(null),
       xIsNext: true,
     };
     this.handleChange = this.handleChange.bind(this);
